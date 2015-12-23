@@ -1,7 +1,7 @@
 /***********************************************
-# Title: 
+# Title: matrix reverse
 # Author : johnfarrell  
-# Date   : 2015
+# Date   : 2015-12-23
 # HomePage : github.com/john7farrell/
 # Email  : xjz199273@163.com
 ***********************************************/
