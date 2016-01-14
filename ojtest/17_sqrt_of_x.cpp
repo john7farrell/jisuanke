@@ -6,6 +6,38 @@
 # Email  : xjz199273@163.com
 ***********************************************/
 //http://nanti.jisuanke.com/t/17
+/*
+设计函数int sqrt(int x)，计算x的平方根。
+格式：
+   输入一个数x，输出它的平方根。直到碰到结束符号为止。
+   千万注意：是int类型哦～
+   输入可以如下操作：
+while(cin>>x)
+或者
+while(scanf("%d", &x) != EOF)
+
+样例1
+输入：
+1
+2
+3
+4
+5
+6
+7
+8
+9
+输出：
+1
+1
+1
+2
+2
+2
+2
+2
+3
+*/
 //*Reference
 //*http://www.cnblogs.com/chenyg32/p/3306893.html
 #include<iostream>
@@ -25,6 +57,7 @@ using namespace std;
         return 0;
     }
 }*/
+
 //Newton's method :) Very fast!
 int sqrt(int x)  
 {  

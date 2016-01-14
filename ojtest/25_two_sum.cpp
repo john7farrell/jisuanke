@@ -6,7 +6,27 @@
 # Email  : xjz199273@163.com
 ***********************************************/
 //http://nanti.jisuanke.com/t/25
-
+/*
+给定一个数组，找到两个数，使得他们的和为一个给定的数值target。
+函数twoSum返回两个数字index1,index2，
+其中：number[index1] + number[index2]==target;
+注意：index1必须小于index2且不能为0假设每一组输入只有唯一的一组解。
+格式：第一行输入一个数n，接下来的两行分别输入数组number[n]和target，返回index1和index2.
+例如：
+Input:
+numbers={2, 7, 11, 15},
+target=9
+Output:
+index1=1, index2=2
+提示：vector twoSum(vector &number, int target)
+样例1
+输入：
+3
+5 75 25
+100
+输出：
+2 3
+*/
 //needn't sort at all...
 //why there is a label of 'sort'?
 
