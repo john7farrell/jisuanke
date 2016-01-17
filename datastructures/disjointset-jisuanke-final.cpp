@@ -77,7 +77,6 @@ int main() {
     DisjointSet dsu(1000000);
     int m, n, a, b;
     cin >> n >> m;
-    int *rootarr = new int[n]();
     for (int i = 0; i < m; ++i) {
         cin >> a >> b;
         dsu.merge(a, b);
